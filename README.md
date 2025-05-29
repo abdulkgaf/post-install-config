@@ -27,6 +27,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Log in with the admin credentials you created during installation
 - You should now see the osTicket Admin Panel dashboard
 
+![Screenshot 2025-05-28 110016](https://github.com/user-attachments/assets/33afcb31-2bde-413e-9586-e2d536458497)
+
 ### Step 2: Configure Roles
 Roles determine the permissions that agents have within the help desk.
 
@@ -40,6 +42,8 @@ Roles determine the permissions that agents have within the help desk.
     - Knowledgebase (all permissions)
   - Under Teams tab, check "Assign/Close"
   - Click "Add Role"
+
+![Screenshot 2025-05-28 110048](https://github.com/user-attachments/assets/0d0250c9-f28a-45ed-a9c7-2e89ae1d776b)
 
 ### Step 3: Configure Departments
 Departments are used to route tickets and assign agents.
@@ -77,6 +81,8 @@ This setting enables unregistered users to submit tickets.
 - Under General Settings:
   - Guest Tickets: ENABLE this option
 - Click "Save Changes"
+
+![Screenshot 2025-05-28 110300](https://github.com/user-attachments/assets/b21ccd32-6a09-4ac9-9b3d-9767da1ea27b)
 
 ### Step 6: Configure Agents (Workers)
 Agents are the help desk staff who work on tickets.
@@ -127,6 +133,8 @@ Users are the customers who submit tickets.
   - Phone Number: 555-555-5551
   - Click "Add User"
 
+![Screenshot 2025-05-28 110416](https://github.com/user-attachments/assets/567fa276-07cc-4ac9-8679-f77bed4872ef)
+
 ### Step 8: Configure SLA Plans
 SLA (Service Level Agreement) plans define response and resolution times.
 
@@ -149,6 +157,8 @@ SLA (Service Level Agreement) plans define response and resolution times.
   - Grace Period: 8 hours
   - Schedule: Monday - Friday 8am-5pm with U.S. Holidays
   - Click "Add Plan"
+
+![Screenshot 2025-05-28 110512](https://github.com/user-attachments/assets/ba81452d-48ba-41ef-a9b5-80eb56fbac0e)
 
 ### Step 9: Configure Help Topics
 Help Topics categorize tickets and can trigger specific workflows.
